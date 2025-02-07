@@ -1,6 +1,6 @@
 # **Finpro_NautixTech**
 
-![Logo](Finpro_NautixTech/logo/Kelompok_5_NautixTech-removebg-preview.png)
+![Logo](logo/Kelompok_5_NautixTech-removebg-preview.png)
 
 Proyek ini merupakan aplikasi berbasis Streamlit untuk **rating CV**, **chatbot AI**, dan berbagai fitur lainnya terkait HR.
 

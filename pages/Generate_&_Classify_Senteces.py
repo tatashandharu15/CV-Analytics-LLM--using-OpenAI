@@ -45,7 +45,7 @@ def generate_sentence(model, category, language):
         return f"Error: {e}"
 
 def main():
-    st.title("🚀 Sentence Classification and Generation with Gemini")
+    st.title("🚀 Sentence Classification and Generation")
     model = configure_model()
     
     tab1, tab2 = st.tabs(["Sentence Classification", "Generate Sentence"])
